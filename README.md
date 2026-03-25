@@ -81,10 +81,7 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: [https://github.com/sansan0/TrendRadar]
+1. Repositório selecionado: [Trend Radar](https://github.com/sansan0/TrendRadar)
 2. Gráfico selecionado: <img width="688" height="385" alt="image" src="https://github.com/user-attachments/assets/55b5837f-0c36-4cb8-9d4b-7998f55f6798" />
 
-3. Explicação: <EXPLICACAO_AQUI>
-
-
-
+3. Explicação: O gráfico selecionado revela um crescimento acentuado em if_statement, saindo de um número próximo de 0 em 2025 para aproximadamente 1.200 em 2026. Essa situação eleva a complexidade ciclomática do projeto, que está relacionada ao número de caminhos de execução independentes no código, o que pode dificultar a legibilidade e a manutenção do sistema. Além disso, a forte diferença entre o uso de condicionais e outros fluxos de controle sugere um possível code smell: a lógica de controle pode estar excessivamente centralizada ou aninhada.
