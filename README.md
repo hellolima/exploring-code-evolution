@@ -81,8 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
+1. Repositório selecionado: [https://github.com/sansan0/TrendRadar]
+2. Gráfico selecionado: <img width="688" height="385" alt="image" src="https://github.com/user-attachments/assets/55b5837f-0c36-4cb8-9d4b-7998f55f6798" />
+
 3. Explicação: <EXPLICACAO_AQUI>
 
 
